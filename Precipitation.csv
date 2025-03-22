@@ -1,4 +1,4 @@
-Time,precipitation,Manual Daily Maximum Air Temperature(Avg),Manual Daily Minimum Air Temperature(Avg)
+Time,precipitation,max_temp,min_temp
 01/01/1982 00:00:00,16,12.612,-0.655
 02/01/1982 00:00:00,39.1,12.032,0.378
 03/01/1982 00:00:00,25.7,15.522,1.167
