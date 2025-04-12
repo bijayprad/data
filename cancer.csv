@@ -1,0 +1,301 @@
+PatientID,Age,Province,CancerType,Stage,DiagnosisYear,Treatment,SurvivalTime,Status,EducationLevel,MaritalStatus,Smoking,IncomeLevel
+P0001,57,Lumbini,Breast,III,2020,Hormonal Therapy,38,Dead,No Education,Divorced,No,Medium
+P0002,72,Lumbini,Ovarian,II,2017,Surgery,107,Alive,Primary,Single,No,High
+P0003,36,Province 2,Ovarian,II,2024,Hormonal Therapy,46,Alive,No Education,Single,Yes,High
+P0004,46,Province 2,Uterine,II,2021,Combined,13,Dead,Primary,Widowed,No,Low
+P0005,46,Sudurpashchim,Ovarian,II,2018,Surgery,16,Alive,Secondary,Married,No,High
+P0006,70,Karnali,Ovarian,III,2020,Combined,91,Alive,Primary,Single,No,Medium
+P0007,54,Sudurpashchim,Cervical,II,2023,Chemotherapy,56,Dead,Primary,Married,No,High
+P0008,62,Province 2,Uterine,II,2016,Surgery,93,Alive,Secondary,Divorced,No,Low
+P0009,62,Lumbini,Uterine,III,2020,Combined,46,Alive,No Education,Single,Yes,Low
+P0010,69,Bagmati,Uterine,II,2024,Chemotherapy,22,Alive,Primary,Widowed,No,Medium
+P0011,32,Sudurpashchim,Uterine,II,2024,Hormonal Therapy,81,Dead,Primary,Widowed,No,Medium
+P0012,51,Lumbini,Uterine,IV,2021,Chemotherapy,51,Dead,Secondary,Widowed,Yes,High
+P0013,51,Bagmati,Uterine,III,2018,Radiotherapy,37,Dead,No Education,Single,No,High
+P0014,58,Bagmati,Breast,I,2017,Chemotherapy,84,Alive,Primary,Married,Yes,Low
+P0015,45,Province 2,Ovarian,IV,2021,Chemotherapy,85,Dead,Secondary,Divorced,Yes,Medium
+P0016,54,Sudurpashchim,Uterine,III,2021,Radiotherapy,59,Dead,Primary,Married,No,Medium
+P0017,57,Gandaki,Ovarian,II,2016,Combined,91,Alive,Higher,Married,No,Medium
+P0018,52,Province 1,Ovarian,I,2019,Combined,97,Dead,Secondary,Divorced,No,High
+P0019,71,Province 2,Breast,III,2018,Chemotherapy,25,Dead,No Education,Divorced,Yes,Medium
+P0020,57,Province 2,Uterine,III,2015,Radiotherapy,38,Alive,No Education,Single,No,Low
+P0021,29,Gandaki,Cervical,II,2021,Radiotherapy,79,Alive,No Education,Single,Yes,Low
+P0022,72,Province 1,Breast,III,2019,Hormonal Therapy,45,Alive,No Education,Single,No,High
+P0023,43,Lumbini,Cervical,III,2015,Combined,37,Alive,Primary,Single,No,High
+P0024,28,Karnali,Ovarian,I,2018,Surgery,119,Alive,Primary,Single,No,Medium
+P0025,59,Sudurpashchim,Ovarian,II,2014,Combined,102,Alive,No Education,Divorced,No,High
+P0026,73,Karnali,Breast,II,2023,Combined,7,Dead,No Education,Married,No,Low
+P0027,41,Lumbini,Breast,III,2019,Hormonal Therapy,102,Dead,No Education,Single,No,Medium
+P0028,68,Province 2,Cervical,I,2022,Surgery,38,Dead,Primary,Single,No,Low
+P0029,52,Province 1,Uterine,II,2014,Hormonal Therapy,110,Alive,No Education,Married,No,Medium
+P0030,54,Province 2,Cervical,III,2024,Surgery,82,Alive,No Education,Single,No,High
+P0031,53,Bagmati,Breast,III,2024,Chemotherapy,35,Alive,Higher,Married,Yes,Medium
+P0032,70,Province 2,Cervical,II,2023,Surgery,38,Alive,Higher,Married,Yes,Medium
+P0033,30,Province 2,Breast,III,2016,Hormonal Therapy,82,Dead,No Education,Divorced,No,Low
+P0034,59,Lumbini,Cervical,I,2020,Combined,31,Dead,Secondary,Widowed,Yes,Low
+P0035,65,Lumbini,Breast,III,2017,Surgery,27,Alive,No Education,Divorced,Yes,Medium
+P0036,61,Lumbini,Breast,I,2022,Surgery,108,Dead,Higher,Widowed,No,High
+P0037,48,Karnali,Breast,II,2016,Radiotherapy,71,Dead,Secondary,Widowed,No,High
+P0038,53,Bagmati,Uterine,III,2018,Combined,43,Alive,Secondary,Widowed,No,Low
+P0039,73,Lumbini,Cervical,I,2016,Chemotherapy,108,Dead,No Education,Single,No,High
+P0040,70,Province 1,Cervical,II,2020,Hormonal Therapy,95,Alive,Higher,Divorced,No,Low
+P0041,55,Karnali,Cervical,III,2018,Chemotherapy,51,Alive,Higher,Widowed,Yes,High
+P0042,59,Gandaki,Breast,III,2022,Combined,119,Alive,Secondary,Married,No,Medium
+P0043,57,Province 1,Cervical,III,2020,Surgery,20,Alive,No Education,Single,Yes,Low
+P0044,45,Sudurpashchim,Cervical,III,2015,Surgery,103,Alive,Primary,Divorced,No,Low
+P0045,56,Sudurpashchim,Breast,II,2017,Combined,111,Alive,Primary,Widowed,No,Medium
+P0046,47,Province 1,Ovarian,II,2022,Surgery,49,Alive,Higher,Married,No,Low
+P0047,57,Lumbini,Breast,II,2015,Surgery,54,Alive,Primary,Divorced,No,High
+P0048,27,Gandaki,Cervical,I,2023,Surgery,109,Alive,Higher,Divorced,No,High
+P0049,42,Gandaki,Breast,IV,2022,Hormonal Therapy,80,Alive,Higher,Single,Yes,Low
+P0050,49,Karnali,Ovarian,II,2023,Hormonal Therapy,66,Alive,Higher,Divorced,No,High
+P0051,66,Gandaki,Breast,II,2018,Radiotherapy,72,Alive,Primary,Single,Yes,Low
+P0052,55,Sudurpashchim,Cervical,II,2015,Chemotherapy,11,Alive,Higher,Widowed,Yes,Medium
+P0053,27,Bagmati,Ovarian,IV,2017,Combined,14,Alive,Secondary,Single,Yes,Low
+P0054,64,Lumbini,Uterine,I,2020,Combined,11,Alive,No Education,Married,No,Medium
+P0055,70,Gandaki,Cervical,II,2021,Combined,78,Alive,No Education,Single,No,High
+P0056,48,Karnali,Ovarian,II,2016,Radiotherapy,108,Dead,Higher,Married,Yes,Medium
+P0057,74,Sudurpashchim,Ovarian,III,2014,Hormonal Therapy,100,Alive,No Education,Single,No,High
+P0058,56,Bagmati,Uterine,I,2017,Radiotherapy,37,Alive,Primary,Divorced,No,Low
+P0059,71,Province 2,Breast,III,2015,Combined,46,Dead,Primary,Widowed,Yes,High
+P0060,46,Province 2,Breast,IV,2021,Chemotherapy,119,Dead,No Education,Married,No,Low
+P0061,47,Bagmati,Cervical,II,2017,Surgery,81,Dead,Primary,Single,No,Low
+P0062,26,Sudurpashchim,Uterine,III,2015,Hormonal Therapy,13,Dead,No Education,Single,No,Medium
+P0063,51,Karnali,Breast,IV,2019,Hormonal Therapy,77,Alive,No Education,Single,No,Medium
+P0064,66,Bagmati,Uterine,III,2019,Radiotherapy,55,Alive,No Education,Divorced,Yes,Medium
+P0065,26,Lumbini,Breast,I,2023,Hormonal Therapy,97,Alive,Higher,Divorced,No,Medium
+P0066,50,Lumbini,Ovarian,II,2017,Combined,67,Alive,No Education,Married,No,High
+P0067,41,Province 2,Breast,III,2019,Combined,89,Alive,Higher,Married,No,High
+P0068,64,Gandaki,Uterine,II,2015,Radiotherapy,67,Alive,No Education,Divorced,Yes,High
+P0069,57,Karnali,Ovarian,III,2023,Combined,116,Alive,No Education,Married,No,Low
+P0070,33,Province 2,Ovarian,IV,2015,Chemotherapy,12,Dead,No Education,Widowed,No,High
+P0071,67,Gandaki,Ovarian,IV,2023,Radiotherapy,80,Dead,Primary,Widowed,Yes,High
+P0072,72,Gandaki,Uterine,II,2017,Chemotherapy,89,Alive,Higher,Divorced,No,High
+P0073,63,Lumbini,Cervical,I,2021,Surgery,85,Dead,Higher,Married,No,Medium
+P0074,53,Sudurpashchim,Cervical,IV,2020,Chemotherapy,9,Alive,No Education,Single,No,High
+P0075,66,Province 1,Cervical,III,2022,Surgery,11,Dead,No Education,Widowed,No,Low
+P0076,50,Sudurpashchim,Uterine,I,2021,Surgery,63,Alive,Primary,Divorced,No,Medium
+P0077,59,Province 1,Ovarian,IV,2018,Chemotherapy,27,Dead,Primary,Married,No,Low
+P0078,74,Bagmati,Cervical,III,2015,Radiotherapy,31,Alive,Primary,Divorced,No,High
+P0079,49,Lumbini,Uterine,II,2018,Combined,8,Alive,Higher,Single,Yes,Medium
+P0080,48,Gandaki,Cervical,II,2021,Combined,46,Alive,Higher,Widowed,No,Low
+P0081,37,Karnali,Breast,II,2023,Surgery,65,Alive,Higher,Divorced,No,High
+P0082,31,Province 1,Cervical,I,2022,Surgery,111,Alive,No Education,Divorced,No,Low
+P0083,60,Sudurpashchim,Cervical,II,2022,Radiotherapy,19,Alive,Higher,Divorced,No,Low
+P0084,69,Gandaki,Ovarian,III,2014,Hormonal Therapy,80,Alive,Secondary,Single,Yes,Low
+P0085,44,Province 1,Uterine,I,2022,Chemotherapy,87,Alive,Secondary,Divorced,No,High
+P0086,25,Province 1,Ovarian,II,2020,Surgery,17,Alive,Primary,Single,No,High
+P0087,32,Province 1,Ovarian,II,2022,Combined,92,Dead,Higher,Single,No,Low
+P0088,70,Karnali,Ovarian,II,2021,Radiotherapy,17,Alive,Secondary,Single,No,Medium
+P0089,40,Lumbini,Ovarian,IV,2014,Chemotherapy,18,Alive,Primary,Widowed,No,Medium
+P0090,38,Karnali,Ovarian,II,2021,Radiotherapy,30,Alive,Higher,Widowed,Yes,High
+P0091,36,Province 2,Cervical,II,2021,Chemotherapy,50,Dead,No Education,Divorced,No,High
+P0092,47,Gandaki,Ovarian,III,2024,Chemotherapy,120,Alive,Secondary,Divorced,Yes,High
+P0093,39,Lumbini,Ovarian,II,2016,Surgery,24,Dead,No Education,Widowed,Yes,High
+P0094,52,Lumbini,Uterine,II,2014,Radiotherapy,60,Dead,Higher,Married,No,High
+P0095,58,Lumbini,Breast,II,2021,Radiotherapy,115,Alive,Secondary,Widowed,Yes,Medium
+P0096,26,Sudurpashchim,Cervical,I,2016,Combined,105,Alive,Higher,Single,No,High
+P0097,56,Lumbini,Cervical,I,2016,Combined,50,Dead,No Education,Widowed,No,Low
+P0098,47,Karnali,Cervical,II,2014,Surgery,13,Dead,Secondary,Single,No,Low
+P0099,46,Lumbini,Ovarian,II,2024,Surgery,98,Alive,No Education,Divorced,Yes,Medium
+P0100,49,Bagmati,Ovarian,IV,2018,Hormonal Therapy,58,Alive,Higher,Married,No,Low
+P0101,46,Gandaki,Ovarian,II,2023,Combined,60,Dead,Higher,Divorced,Yes,Medium
+P0102,46,Lumbini,Uterine,II,2020,Chemotherapy,37,Alive,No Education,Single,No,Medium
+P0103,73,Gandaki,Breast,III,2023,Radiotherapy,56,Dead,Secondary,Single,No,Low
+P0104,66,Bagmati,Ovarian,I,2022,Surgery,49,Alive,No Education,Single,No,High
+P0105,30,Bagmati,Breast,III,2020,Radiotherapy,87,Alive,Higher,Married,No,Low
+P0106,39,Gandaki,Uterine,I,2022,Radiotherapy,75,Dead,No Education,Widowed,No,Low
+P0107,67,Province 1,Cervical,IV,2021,Hormonal Therapy,23,Alive,Higher,Divorced,Yes,Medium
+P0108,61,Province 2,Ovarian,I,2015,Combined,88,Alive,No Education,Divorced,No,Low
+P0109,57,Sudurpashchim,Breast,II,2014,Surgery,27,Alive,Secondary,Widowed,No,Medium
+P0110,32,Province 1,Breast,I,2020,Radiotherapy,42,Alive,Secondary,Divorced,No,High
+P0111,68,Province 1,Ovarian,IV,2020,Surgery,101,Alive,No Education,Married,Yes,High
+P0112,68,Karnali,Cervical,II,2021,Chemotherapy,61,Alive,No Education,Divorced,Yes,High
+P0113,29,Sudurpashchim,Cervical,II,2018,Hormonal Therapy,110,Alive,Secondary,Single,Yes,Low
+P0114,63,Sudurpashchim,Cervical,I,2016,Chemotherapy,64,Dead,Higher,Widowed,No,Medium
+P0115,28,Province 1,Uterine,III,2021,Surgery,8,Alive,Secondary,Married,No,High
+P0116,30,Lumbini,Breast,II,2019,Surgery,33,Alive,Higher,Widowed,No,Medium
+P0117,69,Karnali,Breast,III,2024,Combined,79,Alive,No Education,Married,No,Medium
+P0118,56,Karnali,Breast,II,2016,Radiotherapy,120,Dead,No Education,Single,Yes,High
+P0119,54,Bagmati,Uterine,I,2014,Radiotherapy,40,Dead,Higher,Widowed,No,High
+P0120,71,Sudurpashchim,Breast,I,2016,Chemotherapy,66,Alive,No Education,Divorced,No,Medium
+P0121,59,Province 1,Uterine,II,2018,Hormonal Therapy,98,Alive,Higher,Married,No,High
+P0122,64,Bagmati,Cervical,II,2016,Radiotherapy,59,Alive,Primary,Widowed,No,Medium
+P0123,40,Gandaki,Ovarian,I,2014,Combined,68,Dead,Secondary,Divorced,No,Medium
+P0124,37,Province 2,Breast,III,2018,Chemotherapy,84,Dead,Primary,Widowed,No,High
+P0125,74,Karnali,Breast,II,2023,Chemotherapy,102,Alive,Higher,Widowed,Yes,Low
+P0126,66,Gandaki,Cervical,II,2020,Combined,12,Dead,Secondary,Widowed,Yes,High
+P0127,54,Gandaki,Ovarian,II,2020,Hormonal Therapy,81,Dead,Higher,Married,No,Low
+P0128,43,Lumbini,Uterine,II,2024,Combined,54,Alive,Secondary,Divorced,Yes,Medium
+P0129,41,Province 2,Ovarian,II,2022,Hormonal Therapy,99,Alive,Secondary,Single,No,Medium
+P0130,43,Gandaki,Cervical,I,2023,Combined,90,Alive,Secondary,Married,Yes,Low
+P0131,52,Gandaki,Cervical,I,2023,Combined,36,Alive,Secondary,Married,No,Medium
+P0132,50,Province 2,Ovarian,III,2016,Surgery,63,Dead,Higher,Married,Yes,Low
+P0133,61,Province 2,Uterine,IV,2020,Chemotherapy,66,Alive,Secondary,Single,No,Low
+P0134,50,Gandaki,Uterine,II,2014,Combined,29,Alive,Secondary,Divorced,No,Medium
+P0135,47,Province 2,Breast,II,2017,Combined,25,Alive,Primary,Divorced,Yes,Low
+P0136,33,Gandaki,Uterine,III,2017,Radiotherapy,42,Alive,No Education,Divorced,Yes,High
+P0137,36,Gandaki,Ovarian,II,2018,Chemotherapy,9,Alive,No Education,Widowed,No,High
+P0138,25,Lumbini,Cervical,I,2020,Radiotherapy,97,Alive,Primary,Widowed,No,Medium
+P0139,25,Province 1,Breast,I,2020,Chemotherapy,113,Alive,Primary,Widowed,Yes,Medium
+P0140,71,Gandaki,Breast,III,2024,Radiotherapy,25,Alive,Higher,Single,No,Low
+P0141,58,Bagmati,Cervical,III,2017,Combined,65,Alive,Higher,Widowed,Yes,Low
+P0142,56,Karnali,Uterine,I,2020,Combined,29,Alive,Higher,Single,No,Low
+P0143,72,Sudurpashchim,Cervical,II,2024,Surgery,55,Alive,Primary,Divorced,No,Low
+P0144,49,Province 1,Uterine,II,2016,Radiotherapy,54,Alive,Primary,Widowed,No,High
+P0145,64,Province 1,Cervical,III,2019,Hormonal Therapy,56,Alive,Secondary,Widowed,No,High
+P0146,69,Province 1,Ovarian,I,2015,Surgery,101,Alive,Higher,Married,Yes,Medium
+P0147,25,Lumbini,Uterine,I,2023,Radiotherapy,110,Alive,Higher,Single,No,Low
+P0148,40,Gandaki,Ovarian,III,2022,Radiotherapy,41,Alive,Higher,Divorced,Yes,Low
+P0149,63,Lumbini,Breast,I,2018,Surgery,103,Dead,No Education,Married,No,Medium
+P0150,29,Gandaki,Cervical,III,2019,Combined,105,Alive,Secondary,Married,No,Low
+P0151,46,Lumbini,Breast,II,2017,Radiotherapy,71,Alive,Higher,Divorced,No,Low
+P0152,53,Lumbini,Breast,I,2024,Combined,84,Dead,Higher,Married,Yes,Low
+P0153,27,Karnali,Breast,II,2023,Surgery,39,Alive,Higher,Single,Yes,Low
+P0154,36,Bagmati,Breast,III,2020,Combined,41,Alive,No Education,Single,No,Low
+P0155,50,Lumbini,Cervical,III,2022,Chemotherapy,11,Dead,No Education,Widowed,No,Medium
+P0156,40,Karnali,Breast,III,2020,Hormonal Therapy,44,Dead,Primary,Married,Yes,Low
+P0157,61,Province 2,Cervical,II,2014,Radiotherapy,47,Alive,Secondary,Widowed,No,Medium
+P0158,46,Bagmati,Cervical,III,2014,Hormonal Therapy,120,Alive,Primary,Married,Yes,Low
+P0159,53,Lumbini,Ovarian,II,2022,Combined,120,Alive,Secondary,Single,No,High
+P0160,38,Sudurpashchim,Uterine,II,2024,Radiotherapy,63,Alive,No Education,Single,No,High
+P0161,52,Province 1,Uterine,III,2022,Combined,17,Alive,Higher,Single,No,High
+P0162,29,Province 2,Cervical,I,2017,Chemotherapy,8,Alive,Primary,Married,Yes,High
+P0163,71,Province 2,Ovarian,I,2022,Surgery,114,Alive,Higher,Single,No,Medium
+P0164,73,Karnali,Cervical,II,2016,Radiotherapy,23,Alive,Primary,Married,Yes,Medium
+P0165,54,Province 2,Cervical,I,2020,Chemotherapy,45,Dead,No Education,Widowed,No,Low
+P0166,70,Bagmati,Cervical,I,2019,Chemotherapy,26,Alive,No Education,Married,Yes,High
+P0167,29,Lumbini,Ovarian,II,2021,Radiotherapy,20,Alive,No Education,Widowed,No,Medium
+P0168,36,Lumbini,Uterine,II,2024,Combined,102,Alive,Primary,Married,No,Low
+P0169,40,Sudurpashchim,Ovarian,III,2022,Chemotherapy,104,Alive,Secondary,Widowed,No,Low
+P0170,50,Province 1,Breast,III,2018,Hormonal Therapy,31,Alive,Primary,Single,No,Medium
+P0171,50,Karnali,Ovarian,II,2014,Chemotherapy,13,Alive,Secondary,Widowed,No,High
+P0172,72,Province 1,Ovarian,II,2016,Combined,105,Alive,Primary,Single,No,Low
+P0173,45,Province 2,Ovarian,II,2023,Combined,117,Alive,Primary,Single,No,High
+P0174,63,Sudurpashchim,Ovarian,II,2021,Hormonal Therapy,99,Alive,No Education,Widowed,No,High
+P0175,60,Province 1,Uterine,II,2024,Chemotherapy,92,Alive,Higher,Married,No,High
+P0176,57,Bagmati,Breast,III,2019,Combined,47,Alive,Higher,Married,No,Low
+P0177,54,Lumbini,Uterine,II,2021,Radiotherapy,49,Alive,Secondary,Divorced,No,High
+P0178,61,Province 2,Uterine,II,2022,Surgery,19,Dead,Higher,Married,No,Low
+P0179,47,Sudurpashchim,Ovarian,II,2017,Surgery,83,Alive,Primary,Divorced,Yes,High
+P0180,34,Province 1,Cervical,II,2014,Surgery,7,Alive,Primary,Married,Yes,Low
+P0181,29,Karnali,Cervical,IV,2014,Chemotherapy,42,Alive,No Education,Married,Yes,High
+P0182,60,Bagmati,Uterine,III,2023,Hormonal Therapy,74,Alive,No Education,Single,Yes,Medium
+P0183,58,Bagmati,Uterine,I,2017,Combined,43,Dead,Higher,Divorced,Yes,High
+P0184,55,Province 1,Ovarian,III,2020,Radiotherapy,114,Alive,Secondary,Married,No,High
+P0185,34,Lumbini,Uterine,II,2015,Radiotherapy,46,Dead,Higher,Divorced,Yes,Low
+P0186,43,Province 1,Ovarian,III,2016,Chemotherapy,67,Alive,Higher,Single,No,Low
+P0187,56,Province 2,Cervical,III,2014,Surgery,65,Alive,Higher,Single,Yes,High
+P0188,25,Province 1,Cervical,II,2018,Chemotherapy,116,Alive,Higher,Divorced,Yes,Medium
+P0189,29,Bagmati,Breast,I,2014,Hormonal Therapy,19,Dead,Primary,Single,No,Medium
+P0190,69,Sudurpashchim,Cervical,II,2021,Hormonal Therapy,108,Alive,Secondary,Widowed,No,Low
+P0191,28,Province 1,Uterine,II,2014,Combined,94,Alive,Primary,Widowed,Yes,Medium
+P0192,40,Lumbini,Cervical,III,2024,Combined,89,Dead,Secondary,Single,No,High
+P0193,48,Sudurpashchim,Ovarian,II,2014,Hormonal Therapy,7,Alive,No Education,Widowed,No,Low
+P0194,40,Karnali,Cervical,I,2015,Hormonal Therapy,108,Alive,Higher,Married,No,High
+P0195,26,Gandaki,Breast,III,2015,Hormonal Therapy,75,Alive,Primary,Divorced,No,Low
+P0196,73,Province 1,Cervical,IV,2019,Chemotherapy,22,Dead,Secondary,Married,No,Low
+P0197,52,Lumbini,Ovarian,II,2020,Hormonal Therapy,94,Alive,No Education,Divorced,No,Low
+P0198,56,Sudurpashchim,Ovarian,I,2018,Radiotherapy,33,Dead,No Education,Single,No,Low
+P0199,51,Lumbini,Uterine,II,2014,Surgery,71,Dead,Higher,Married,No,Medium
+P0200,44,Karnali,Cervical,I,2014,Hormonal Therapy,40,Alive,Secondary,Single,Yes,High
+P0201,48,Bagmati,Ovarian,IV,2016,Surgery,106,Alive,Primary,Single,No,High
+P0202,36,Lumbini,Breast,I,2015,Chemotherapy,10,Alive,Higher,Divorced,Yes,High
+P0203,74,Sudurpashchim,Uterine,II,2018,Surgery,70,Alive,Primary,Divorced,No,Low
+P0204,59,Lumbini,Breast,II,2023,Chemotherapy,45,Dead,No Education,Divorced,No,Medium
+P0205,57,Lumbini,Cervical,II,2019,Radiotherapy,81,Dead,Primary,Married,No,High
+P0206,57,Lumbini,Cervical,III,2020,Chemotherapy,61,Alive,Primary,Widowed,Yes,Medium
+P0207,67,Province 2,Cervical,III,2017,Chemotherapy,41,Alive,Higher,Divorced,Yes,Low
+P0208,61,Province 2,Uterine,II,2020,Combined,50,Alive,Primary,Divorced,No,High
+P0209,36,Bagmati,Ovarian,I,2024,Hormonal Therapy,28,Alive,Higher,Married,No,Medium
+P0210,27,Province 1,Uterine,I,2021,Hormonal Therapy,52,Alive,No Education,Divorced,No,Low
+P0211,25,Lumbini,Breast,IV,2024,Radiotherapy,36,Alive,Higher,Married,Yes,Medium
+P0212,57,Karnali,Uterine,III,2014,Radiotherapy,16,Alive,Higher,Single,No,High
+P0213,64,Province 1,Breast,II,2019,Hormonal Therapy,15,Alive,Secondary,Divorced,Yes,High
+P0214,34,Karnali,Uterine,III,2021,Combined,72,Alive,Primary,Divorced,No,Low
+P0215,67,Province 1,Ovarian,III,2018,Hormonal Therapy,19,Alive,No Education,Single,Yes,Low
+P0216,68,Bagmati,Breast,I,2017,Combined,85,Alive,Higher,Single,No,Low
+P0217,53,Lumbini,Cervical,IV,2015,Radiotherapy,79,Dead,No Education,Single,Yes,Medium
+P0218,37,Lumbini,Cervical,II,2019,Surgery,98,Alive,Secondary,Divorced,No,Medium
+P0219,36,Gandaki,Uterine,II,2019,Radiotherapy,15,Dead,Primary,Widowed,No,Medium
+P0220,55,Karnali,Cervical,II,2024,Radiotherapy,81,Dead,Higher,Widowed,Yes,Low
+P0221,70,Province 1,Breast,I,2014,Chemotherapy,99,Alive,Primary,Widowed,No,High
+P0222,26,Province 1,Cervical,I,2022,Chemotherapy,110,Dead,Secondary,Divorced,Yes,High
+P0223,74,Province 2,Ovarian,III,2024,Chemotherapy,6,Alive,Secondary,Single,Yes,Medium
+P0224,59,Gandaki,Ovarian,I,2019,Chemotherapy,10,Alive,No Education,Divorced,No,Medium
+P0225,47,Sudurpashchim,Uterine,III,2016,Combined,25,Alive,Higher,Single,No,High
+P0226,41,Sudurpashchim,Breast,II,2017,Hormonal Therapy,13,Alive,No Education,Divorced,No,High
+P0227,50,Province 2,Ovarian,II,2024,Surgery,48,Alive,Secondary,Divorced,No,Medium
+P0228,32,Province 2,Ovarian,II,2017,Radiotherapy,81,Alive,Primary,Single,No,Medium
+P0229,53,Province 2,Breast,II,2016,Combined,6,Alive,No Education,Widowed,Yes,High
+P0230,50,Karnali,Cervical,III,2023,Surgery,62,Alive,No Education,Single,Yes,Low
+P0231,34,Karnali,Cervical,II,2016,Combined,69,Alive,Primary,Married,No,Medium
+P0232,50,Bagmati,Uterine,II,2016,Combined,89,Dead,No Education,Married,No,High
+P0233,58,Bagmati,Cervical,II,2017,Radiotherapy,33,Alive,Primary,Single,Yes,High
+P0234,65,Province 2,Breast,III,2020,Hormonal Therapy,112,Alive,Higher,Divorced,Yes,High
+P0235,31,Gandaki,Ovarian,IV,2017,Chemotherapy,42,Dead,Primary,Married,No,High
+P0236,28,Province 1,Cervical,III,2022,Hormonal Therapy,52,Alive,Higher,Married,No,Low
+P0237,74,Karnali,Uterine,II,2014,Radiotherapy,106,Alive,Primary,Divorced,Yes,High
+P0238,69,Gandaki,Cervical,I,2021,Radiotherapy,81,Alive,Secondary,Divorced,No,Medium
+P0239,35,Lumbini,Breast,II,2020,Radiotherapy,42,Alive,Secondary,Widowed,No,Low
+P0240,53,Karnali,Uterine,II,2015,Surgery,54,Dead,Higher,Divorced,Yes,High
+P0241,60,Karnali,Cervical,I,2021,Hormonal Therapy,118,Alive,Higher,Single,Yes,Low
+P0242,49,Bagmati,Uterine,II,2014,Hormonal Therapy,49,Dead,Secondary,Single,No,Medium
+P0243,45,Province 1,Breast,II,2024,Combined,61,Alive,Higher,Widowed,No,High
+P0244,60,Province 1,Ovarian,II,2022,Combined,33,Alive,Primary,Married,Yes,Medium
+P0245,34,Sudurpashchim,Breast,III,2022,Combined,116,Alive,Primary,Married,No,High
+P0246,61,Sudurpashchim,Breast,I,2015,Radiotherapy,84,Alive,Secondary,Divorced,No,High
+P0247,33,Sudurpashchim,Breast,I,2020,Hormonal Therapy,11,Alive,No Education,Single,No,High
+P0248,48,Sudurpashchim,Breast,III,2023,Radiotherapy,113,Dead,Primary,Married,No,High
+P0249,59,Lumbini,Ovarian,II,2016,Surgery,66,Dead,Higher,Widowed,No,High
+P0250,73,Lumbini,Ovarian,III,2020,Combined,25,Alive,No Education,Widowed,No,Low
+P0251,59,Karnali,Uterine,II,2023,Radiotherapy,119,Dead,No Education,Single,No,High
+P0252,72,Province 2,Cervical,II,2022,Radiotherapy,83,Dead,Primary,Widowed,No,High
+P0253,60,Bagmati,Ovarian,III,2017,Surgery,7,Alive,Primary,Widowed,No,Low
+P0254,42,Bagmati,Ovarian,III,2014,Chemotherapy,78,Alive,No Education,Single,No,Low
+P0255,73,Sudurpashchim,Cervical,III,2015,Hormonal Therapy,42,Alive,No Education,Divorced,Yes,Low
+P0256,63,Karnali,Ovarian,II,2014,Chemotherapy,25,Alive,Secondary,Divorced,No,Low
+P0257,56,Gandaki,Breast,II,2018,Combined,31,Alive,Higher,Widowed,No,Low
+P0258,48,Province 2,Breast,II,2018,Radiotherapy,34,Alive,Secondary,Divorced,Yes,Low
+P0259,47,Karnali,Cervical,I,2024,Surgery,6,Dead,Primary,Divorced,No,High
+P0260,56,Province 2,Uterine,IV,2020,Surgery,40,Alive,Secondary,Widowed,No,High
+P0261,61,Province 2,Uterine,I,2022,Hormonal Therapy,75,Alive,Secondary,Divorced,Yes,Medium
+P0262,36,Province 2,Cervical,IV,2022,Chemotherapy,106,Dead,Secondary,Widowed,No,High
+P0263,73,Karnali,Cervical,II,2016,Hormonal Therapy,64,Dead,Secondary,Married,Yes,High
+P0264,37,Sudurpashchim,Breast,I,2016,Radiotherapy,74,Alive,Higher,Single,Yes,Low
+P0265,47,Bagmati,Uterine,II,2016,Hormonal Therapy,38,Dead,Higher,Single,No,Low
+P0266,49,Bagmati,Ovarian,III,2017,Surgery,118,Alive,No Education,Divorced,Yes,High
+P0267,59,Sudurpashchim,Breast,III,2021,Surgery,56,Alive,Primary,Divorced,No,Medium
+P0268,65,Province 2,Cervical,III,2019,Combined,83,Alive,Secondary,Divorced,No,Low
+P0269,54,Gandaki,Uterine,III,2021,Combined,17,Alive,No Education,Single,No,High
+P0270,41,Province 1,Ovarian,III,2014,Radiotherapy,111,Alive,No Education,Married,No,High
+P0271,73,Karnali,Ovarian,III,2021,Chemotherapy,25,Alive,No Education,Married,Yes,Medium
+P0272,44,Province 1,Breast,II,2017,Hormonal Therapy,58,Alive,Higher,Single,No,Medium
+P0273,72,Sudurpashchim,Uterine,II,2024,Radiotherapy,119,Alive,Secondary,Married,Yes,Low
+P0274,49,Gandaki,Uterine,II,2014,Combined,93,Alive,Secondary,Single,No,Medium
+P0275,46,Karnali,Cervical,IV,2021,Hormonal Therapy,48,Dead,Primary,Married,No,High
+P0276,37,Sudurpashchim,Uterine,IV,2017,Combined,103,Alive,Secondary,Widowed,Yes,High
+P0277,43,Province 2,Uterine,I,2019,Hormonal Therapy,94,Alive,Secondary,Widowed,No,Medium
+P0278,73,Bagmati,Breast,III,2021,Chemotherapy,55,Alive,No Education,Single,No,Medium
+P0279,60,Province 1,Uterine,IV,2017,Radiotherapy,34,Alive,Primary,Married,No,Medium
+P0280,36,Lumbini,Ovarian,I,2016,Hormonal Therapy,62,Alive,Secondary,Divorced,No,Medium
+P0281,65,Lumbini,Breast,II,2022,Surgery,44,Dead,Higher,Married,Yes,Low
+P0282,43,Gandaki,Breast,IV,2016,Surgery,100,Alive,Secondary,Widowed,No,Medium
+P0283,36,Province 2,Cervical,I,2022,Hormonal Therapy,61,Alive,No Education,Widowed,Yes,Low
+P0284,33,Province 1,Uterine,III,2015,Hormonal Therapy,116,Alive,Higher,Married,No,High
+P0285,31,Province 2,Cervical,II,2015,Hormonal Therapy,48,Alive,No Education,Married,No,Medium
+P0286,52,Province 1,Ovarian,IV,2015,Surgery,55,Alive,Secondary,Divorced,No,Low
+P0287,38,Gandaki,Breast,IV,2019,Surgery,28,Alive,Higher,Divorced,No,Medium
+P0288,55,Gandaki,Breast,IV,2016,Hormonal Therapy,49,Alive,Primary,Married,Yes,High
+P0289,43,Lumbini,Breast,II,2022,Combined,43,Alive,Primary,Married,No,High
+P0290,71,Province 2,Ovarian,III,2017,Combined,89,Alive,Higher,Married,No,High
+P0291,40,Karnali,Ovarian,III,2014,Chemotherapy,28,Alive,Higher,Married,Yes,Medium
+P0292,29,Lumbini,Cervical,II,2017,Radiotherapy,50,Dead,No Education,Single,No,Medium
+P0293,59,Province 2,Cervical,III,2014,Combined,57,Dead,Higher,Married,Yes,Low
+P0294,36,Lumbini,Cervical,I,2018,Surgery,85,Dead,No Education,Divorced,No,High
+P0295,49,Karnali,Uterine,II,2017,Combined,55,Alive,Secondary,Widowed,No,Medium
+P0296,45,Bagmati,Breast,II,2021,Chemotherapy,111,Alive,No Education,Single,No,High
+P0297,60,Bagmati,Breast,I,2021,Chemotherapy,13,Alive,Higher,Married,Yes,High
+P0298,47,Bagmati,Cervical,I,2020,Radiotherapy,119,Alive,Higher,Widowed,No,Low
+P0299,40,Bagmati,Breast,III,2016,Combined,90,Alive,Secondary,Single,No,Low
+P0300,63,Sudurpashchim,Cervical,II,2014,Surgery,6,Alive,Higher,Widowed,No,Low
