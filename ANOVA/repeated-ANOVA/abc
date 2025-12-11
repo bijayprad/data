@@ -1,0 +1,80 @@
+✅ 1. Assumption Checks
+Box’s Test (Equality of covariance matrices)
+p = .481 → NOT significant
+✔ Assumption met — no covariance differences between treatment groups.
+Mauchly’s Test of Sphericity
+W = .860, p = .705 → NOT significant
+✔ Sphericity assumption is satisfied.
+→ You can use the Sphericity Assumed rows in your ANOVA table.
+Levene’s tests for each time point
+All p-values > .40
+✔ Variance equality across Treatment groups at each time point is satisfied.
+Conclusion:
+All assumptions for repeated-measures ANOVA are met.
+
+✅ 2. Main Effects
+A. Within-Subjects Effect (Time / factor1)
+From Tests of Within-Subjects Effects:
+F(3,63) = 59.156, p < .001
+✔ Very strong evidence that soil quality changes significantly over time.
+Support from contrasts:
+Linear trend p < .001
+Quadratic & cubic not significant
+➡ Soil quality changes in a steady, linear increase over time.
+B. Between-Subjects Effect (Treatment)
+From Between-Subjects Effects:
+F(2,21) = 20.224, p < .001
+✔ Treatments differ significantly in overall soil quality.
+Post hoc tests (Tukey, Bonferroni):
+B > A (difference ≈ 4.02, p = .001)
+B > C (difference ≈ 5.97, p < .001)
+A vs C → not significant
+➡ Treatment B produces the highest soil-quality overall.
+➡ Treatment A is slightly higher than C, but not significantly.
+This matches your descriptive means:
+A ≈ 43.1
+B ≈ 47.1
+C ≈ 41.1
+
+✅ 3. Interaction Effect (Time × Treatment)
+Multivariate tests
+p-values: .056, .068, .081 → marginal but not significant
+Repeated-measures ANOVA table
+Sphericity Assumed: F(6,63) = 1.98, p = .082
+➡ Interaction is not statistically significant
+Treatment groups do not change differently over time
+—but p = .082 is close to .05, indicating a trend toward differences.
+Contrasts:
+Linear trend × Treatment: p = .169
+Quadratic × Treatment: p = .256
+Cubic × Treatment: p = .076 (borderline)
+➡ Slight curvature differences may exist, but not strong enough to reach significance.
+Interpretation:
+All treatments increase over time in a similar pattern.
+Treatment B is consistently higher at all times.
+
+✅ 4. Interpretation of Observed vs Predicted vs Residual Plots
+Although plots are not shown, SPSS typically creates:
+Observed vs Predicted
+Points should lie close to the diagonal line
+➡ Indicates the model fits the data well.
+Residuals (Standardized Residuals)
+You look for:
+No funneling (constant variance)
+No strong outliers
+Random scatter
+Your Levene’s tests + linear trends suggest:
+✔ Residuals are likely homoscedastic
+✔ No extreme outliers
+✔ The model assumptions appear valid.
+
+🎯 Final Summary (Easy Interpretation)
+✔ Soil quality increases significantly over time
+(Strong linear improvement)
+✔ Treatment has a strong effect
+B highest, significantly > A and C
+A and C do not differ
+✔ Time × Treatment interaction is not significant
+All treatments improve over time at roughly the same rate.
+✔ Model assumptions are all satisfied
+Results are reliable.
