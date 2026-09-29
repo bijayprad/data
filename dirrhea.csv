@@ -1,4 +1,4 @@
-ID,Department,Sex,AgeM,Fever,DiaMaxNo_24hrs,DiaDurInDays,DegreeDehy,OutComeDisc
+ID,Department,Sex,Age,Fever,DiaMaxNo_24hrs,DiaDurInDays,DegreeDehy,OutComeDisc
 1,OPD,1,6,No,7,2,some,
 2,OPD,2,8,No,5,1,some,
 3,IPD,1,12,No,10,3,some,Improved
